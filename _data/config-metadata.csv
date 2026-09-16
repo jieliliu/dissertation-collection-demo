@@ -1,15 +1,22 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+title,Title,,
+creator,Creator,TRUE,
+date,Publication Date,,
+description,Description,,
+subject,Subjects,TRUE,
+resource_type,Resource Type,TRUE,
+usage,Dissertation Usage,TRUE,
+theoretical_framework,Theoretical Framework,TRUE,
+geographic_focus,Geographic Focus,TRUE,
+location,Publication Place,TRUE,
+latitude,Latitude,,
+longitude,Longitude,,
+source,Publisher or Source,,
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+type,DCMI Type,,
+format,CollectionBuilder Format,,
+language,Language,,
+access_status,Access Status,TRUE,
+rights,Rights Note,,
+rightsstatement,Rights Statement,,TRUE
+citation,Suggested Citation,,
