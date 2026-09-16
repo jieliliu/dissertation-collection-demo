@@ -1,7 +1,7 @@
 ##########
 # collectionbuilder-gh
 # Jekyll Digital Collection Generator, designed for GitHub Pages
-# https://github.com/CollectionBuilder/collectionbuilder-gh
+#https://github.com/CollectionBuilder/collectionbuilder-gh
 ##########
 
 ##########
@@ -9,23 +9,23 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+#url: https://jieliliu.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/jieliliu/dissertation-collection-demo
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "READERS' FAVORITE BOOKS OF 2024"
+title: "Dissertation Collection Demo"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "A collection of the winners of the Annual Goodreads Choice Awards in 2024."
+tagline: "Sources for studying organizational generative-AI adoption in leading academic libraries."
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection showcases the winners of the 2024 Goodreads Choice Awards, celebrating the year’s most beloved books as voted by readers around the world. Spanning genres such as fiction, nonfiction, fantasy, romance, mystery, science fiction, and more, each title reflects the diverse voices and stories that captivated the Goodreads community. Together, these award-winning works highlight the literary trends, emerging authors, and standout narratives that defined reading in 2024."
+description: "A teaching collection about organizational generative-AI adoption in academic libraries in China and the United States."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Jieli Liu
 
@@ -34,7 +34,7 @@ author: Jieli Liu
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: book_data
+metadata: dissertation-items
 
 ##########
 # Site/Organization Branding 
