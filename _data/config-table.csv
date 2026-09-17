@@ -1,5 +1,7 @@
 field,display_name
 title,Title
-date,Date
-description,Description
-subject,Subjects
+creator,Creator
+date,Publication Date
+resource_type,Resource Type
+theoretical_framework,Theoretical Framework
+usage,Dissertation Usage

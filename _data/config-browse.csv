@@ -1,5 +1,11 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+date,Publication Date,,,Date
+creator,Creator,,,Creator
+description,,,,
+subject,,TRUE,,
+resource_type,Resource Type,TRUE,,
+usage,Dissertation Usage,TRUE,,
+theoretical_framework,Theoretical Framework,TRUE,,
+geographic_focus,Geographic Focus,TRUE,,
+location,Publication Place,TRUE,,
+identifier,,,TRUE,Identifier

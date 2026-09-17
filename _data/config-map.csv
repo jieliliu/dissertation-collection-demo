@@ -1,5 +1,6 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
+title,Title,TRUE
+date,Publication Date,TRUE
+creator,Creator,TRUE
+resource_type,Resource Type,TRUE
+location,Publication Place,TRUE
